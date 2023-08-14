@@ -1,0 +1,154 @@
+*{
+    margin-top: 0;
+    padding: 0;
+}
+
+
+
+.headerSection h3{
+    margin: 0;
+    background-color:#34495e;
+    padding: 25px 25px;
+    text-align: center;
+    color: azure;
+}
+
+
+/* ==== heroSection start ====== */
+
+.heroSection{
+    background-color:#e67e22;
+    padding: 80px 100px;
+    text-align: center;
+   
+    
+}
+
+.heroSection img{
+    
+    width: 900px;
+    margin: 0 auto;
+    box-shadow: 12px 18px 12px #fff;
+    
+
+}
+   
+
+
+
+
+
+/* ====aboutSection  start ====== */
+
+
+
+.aboutSection{
+background-color: #34495e;
+margin: 0;
+padding: 60px 60px;
+text-align: center;
+color: #fff;
+}
+
+.aboutSection h2{
+    
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.aboutSection h4{
+    color: #3498db;
+}
+
+.aboutSection p{
+    color: #c7cdd3;
+}
+
+
+
+
+
+
+
+
+/* ==== serviceSection start ====== */
+
+
+.serviceSection{
+    background-color: #9b59b6;
+    text-align: center;
+    padding: 60px 80px;
+}
+
+.serviceSection p{
+    color: #fff;
+}
+
+.serviceSection h4:nth-child(2){
+    color: #198754;
+}
+
+.serviceSection h4:nth-child(3){
+    color: #f1c40f;
+}
+.serviceSection h4:nth-child(4){
+    color: #95a5a6;
+}
+
+
+
+
+
+
+/* ==== ratingSection start ====== */
+
+.ratingSection{
+    background-color: #ff9814;
+    padding: 60px 0;
+
+}
+
+.star{
+    background-color: #dcdcdc;
+    padding: 50px 70px;
+    border: 4px dashed #000;
+    box-shadow: 20px 20px 2px #fff;
+    border-radius: 8px;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    
+
+
+}
+
+.star h3{
+    font-size: 60px;
+    color: #212529;
+}
+
+/* ==== footer start ====== */
+
+
+.footerSection{
+    background-color: #2c3e50;
+    padding: 25px 0;
+  
+
+}
+
+.footerSection{
+    color: #ffffff;rgb(255, 255, 255);
+    text-align: center;
+    
+
+}
+
+
+
+
+
+
+
+
+
